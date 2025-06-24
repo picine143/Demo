@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import FilterMenu from "../minors/filrerMenu";
 import data from "../../data/artist.json";
 import ArtistCard from "../minors/ArtistCard";
