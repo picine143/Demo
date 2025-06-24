@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Malik",
+    "category": "Singer",
+    "location": "Delhi",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "name": "Meera Kapoor",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "price": 7000
+  },
+  {
+    "id": 3,
+    "name": "DJ Vibe",
+    "category": "DJ",
+    "location": "Bangalore",
+    "price": 9000
+  },
+  {
+    "id": 4,
+    "name": "Arjit raj",
+    "category": "Dancer",
+    "location": "Rajasthan",
+    "price": 12000
+  }
+]
